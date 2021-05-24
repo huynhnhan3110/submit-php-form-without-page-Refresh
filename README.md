@@ -1,3 +1,3 @@
 # submit-php-form-without-page-Refresh
-Using ajax
+##Using ajax
 ![Image](https://i.imgur.com/geN8sNr.png)
